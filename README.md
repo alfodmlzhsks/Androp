@@ -8,3 +8,6 @@ owl, opendrop for android app
 
 # opendrop
 customizing opendrop for android 
+
+# BLE_Airdrop
+BLE Searching for airdrop everyone mode
